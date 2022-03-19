@@ -1,4 +1,4 @@
-from PIL import Image, ImageDraw, ImageFont
+from pil import Image, ImageDraw, ImageFont
 
 MAX_RATIO = 0.8
 
