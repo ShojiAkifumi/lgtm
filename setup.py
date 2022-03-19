@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts':[
-            'lgtm=lgtm.core.cli'
+            'lgtm=lgtm.core:cli'
         ]
     }
 )
