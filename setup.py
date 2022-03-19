@@ -5,9 +5,9 @@ setup(
     version='1.0.0',
     packages=find_packages(exclude=('tests',)),
     install_requires=[
-        'Click~=7.0',
-        'Pillow~=6.2.0',
-        'requests~=2.22.0',
+        'Click',
+        'Pillow',
+        'requests',
     ],
     entry_points={
         'console_scripts':[
